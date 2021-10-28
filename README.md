@@ -7,3 +7,6 @@ Install dependencies (you need to have pip)
 Run server (you need to have Python3 Minimun)
 
 python3 server.py
+
+
+Run API before Front
